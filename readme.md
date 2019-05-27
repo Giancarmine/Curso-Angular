@@ -2,7 +2,7 @@
 ## Presentación
 https://prezi.com/a9meaakorabm/?token=de9b963df542f024de6058912ef5a8c5ef21098497906ef08bc4845659255ed0&utm_campaign=share&utm_medium=copy&rc=ex0share
 ## Instalar Angular
-### Requiistos
+### Requisitos
 Instalar NodeJs: https://nodejs.org/en/
 ### angular-cli
 ```shell
